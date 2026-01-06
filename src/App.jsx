@@ -22,7 +22,7 @@ const LISTINGS = [
     beds: 3,
     baths: 2,
     sqft: "1,800",
-    image: "https://images.unsplash.com/photo-1600596542815-2495db98dada?auto=format&fit=crop&w=800&q=80"
+    image: "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YnVpbGRpbmd8ZW58MHx8MHx8fDA%3D"
   },
   {
     id: 3,
